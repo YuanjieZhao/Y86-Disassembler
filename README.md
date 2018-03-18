@@ -7,4 +7,5 @@ A disassembler for Y86 instruction set architecture (ISA). For details of Y86 IS
 To disassemble a Y86 object file, run `disassemble` with the following arguments:
 
 1st argument: the name of the input file with object code to disassemble.
+
 2nd argument: the name of the output file to put your disassembled code into.
